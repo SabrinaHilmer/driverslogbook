@@ -23,3 +23,13 @@ You may use this application as you wish. In case you wish to change anything, f
 
 # contact
 If you have some feedback, comments, issues, or problems, feel free to contact me via LinkedIn!
+
+# screenshots
+## Logging Ride
+![Logging Travel](https://user-images.githubusercontent.com/127935193/225628410-1c453618-170a-49ce-9af2-a8347ebd4e4e.png)
+
+## All logged drives
+![Travel log](https://user-images.githubusercontent.com/127935193/225628592-acc0d61d-a233-42cb-8362-f18037c83634.png)
+
+## Main menu
+![Main menu](https://user-images.githubusercontent.com/127935193/225628684-7f1a01ad-0cff-4fce-9ea6-c6fec09d37e9.png)
