@@ -7,6 +7,9 @@ To use this solution you need a Microsoft tenant and licensed user (per-app lice
 
 If all tests are accurate, you may import the managed solution to your production environment.
 
+# download
+To download the solution, click on the latest release on the right-side and click on the managed .ZIP folder to download.
+
 # features
 This solution includes the following:
 - Add cars
@@ -15,8 +18,8 @@ This solution includes the following:
 - Get an overview of the expenses
 - Get an overview of the expenses charging the cars
 
-#license & enhancements
+# license & enhancements
 You may use this application as you wish. In case you wish to change anything, feel free to contact me which enhancements you'd like to see in a next release. This solution is for non-commercial use only.
 
-#contact
+# contact
 If you have some feedback, comments, issues, or problems, feel free to contact me via LinkedIn!
