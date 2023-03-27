@@ -17,6 +17,7 @@ This solution includes the following:
 - Log each car ride with the expenses to fill up the car with its dedicated power source such as petrol or electricity
 - Get an overview of the expenses
 - Get an overview of the expenses charging the cars
+- Automatic recognition of receipt items when a receipt is scanned.
 
 # license & enhancements
 You may use this application as you wish. In case you wish to change anything, feel free to contact me which enhancements you'd like to see in a next release. This solution is for non-commercial use only.
